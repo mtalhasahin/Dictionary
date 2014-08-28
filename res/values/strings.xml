@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dictionary</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ad">Ad Giriniz..</string>
+    <string name="aciklama">Açıklama Giriniz..</string>
+    <string name="kaydetButton">Kaydet</string>
+    <string name="silButton">Sil</string>
+    <string name="guncelleButton">Güncelle</string>
+</resources>
